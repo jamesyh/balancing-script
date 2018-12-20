@@ -1,6 +1,6 @@
 
 
-Daily Balancing Script
+# Daily Balancing Script
 
 
 For this project, I was tasked with pulling data from several systems and merging them by cost centers to ensure that the data matches across all platforms. 
