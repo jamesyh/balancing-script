@@ -1,8 +1,6 @@
 
 if(getwd() == "C:/WINDOWS/system32") setwd("C:/Users/dgteam/Desktop/Balancing Production/production-balancing")
 
-print(getwd())
-
 
 if( as.numeric( substr(Sys.time(),12,13) ) %in% c(7:17) ) {
   
